@@ -1,0 +1,1 @@
+LuffyBot est un bot pour Vikidia.Installez avec pip install luffybot, une fois que c'est installé, tapez "luffybot-init" dans votre terminal, et choisissez les options.Puis, éxecutez un script avec python -m luffybot.lenomduscript
